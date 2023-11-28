@@ -1,7 +1,7 @@
 {
   "name": "Secure Dime",
   "symbol": "SCDM",
-  "uri": "githiblink",
+  "uri": "https://raw.githubusercontent.com/BillyKuiper/crypto/main/securedime.json",
   "seller_fee_basis_points": 500,
   "creators": [
     {
