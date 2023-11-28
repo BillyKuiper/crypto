@@ -1,0 +1,12 @@
+{
+  "name": "Secure Dime",
+  "symbol": "SCDM",
+  "uri": "githiblink",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "AXCggwg67q52dqErrgnz4x6ZwUJrz6CPkMzaxKscHiCD",
+      "share": 100
+    }
+  ]
+}
